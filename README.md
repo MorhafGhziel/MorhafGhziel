@@ -43,8 +43,9 @@ I'm a frontend developer with 3+ years of experience in HTML, CSS, and JavaScrip
 
 ### 📊 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MorhafGhziel&show_icons=true&theme=radical&hide=stars" height="160" />
+<p align="center" style="display: flex; justify-content: center; gap: 16px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MorhafGhziel&show_icons=true&theme=radical" height="160" />
+  <img src="https://img.shields.io/badge/Stars_Earned-0-<blue>?style=for-the-badge&logo=github&logoColor=white" alt="Stars Earned: 0" />
   <img src="https://streak-stats.demolab.com/?user=MorhafGhziel&theme=radical" height="160" />
 </p>
 
