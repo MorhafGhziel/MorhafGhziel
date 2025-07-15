@@ -44,8 +44,9 @@ I'm a frontend developer with 3+ years of experience in HTML, CSS, and JavaScrip
 ### 📊 My Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 16px; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=MorhafGhziel&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MorhafGhziel&show_icons=true&theme=radical" height="160" />
   <img src="https://streak-stats.demolab.com/?user=MorhafGhziel&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorhafGhziel&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
