@@ -2,10 +2,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/MorhafGhz" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://morhaf.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -13,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a frontend Developer with 3+ years of experience HTML, CSS, JavaScript, crafting responsive, user-focused interfaces using TypeScript, React, React and Next.js.
+I'm a frontend developer with 3+ years of experience in HTML, CSS, and JavaScript — crafting responsive, user-focused interfaces using TypeScript, React, and Next.js.
 
 ---
 
@@ -41,8 +44,8 @@ I'm a frontend Developer with 3+ years of experience HTML, CSS, JavaScript, craf
 ### 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morhaf&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=morhaf&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MorhafGhziel&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=MorhafGhziel&theme=radical" height="160" />
 </p>
 
 ---
