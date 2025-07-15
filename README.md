@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Morhaf</h1>
 
 <p align="center" style="display: flex; justify-content: center; gap: 8px;">
-  <a href="https://morhaf.me" target="_blank">
+  <a href="https://morhaf.me" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/" target="_blank">
+  <a href="https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/MorhafGhz" target="_blank">
+  <a href="https://x.com/MorhafGhz" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
