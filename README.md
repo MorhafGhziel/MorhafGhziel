@@ -2,13 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Morhaf%20Ghziel-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://x.com/MorhafGhz" target="_blank">
-    <img src="https://img.shields.io/badge/X-%40MorhafGhz-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://morhaf.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-morhaf.me-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
