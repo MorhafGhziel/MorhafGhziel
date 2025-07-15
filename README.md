@@ -1,32 +1,66 @@
-# Hey, I'm Morhaf 👋
+<h1 align="center">Hi 👋, I'm Morhaf, a Frontend Developer!</h1>
 
-I'm a frontend developer based in Riyadh 🇸🇦, focused on building fast, clean, and user-friendly web interfaces.
-
-I care about good design, smooth interactions, and writing maintainable code. Most of my recent work is built with React, Next.js, and Tailwind CSS. Currently exploring motion, 3D, and animation-heavy UI.
-
-### 🚀 Projects
-Here are a few things I've worked on recently:
-
-- [**PromptShare AI**](https://aiprompt-sharing.netlify.app/) – Share and explore AI prompts  
-- [**Freebee Shopify**](https://freebee-shopify.vercel.app/) – Custom storefront UI for Shopify  
-- [**iPhone Blush**](https://iphone-blush-chi.vercel.app/) – A product landing page with a focus on visuals  
-- [**Fizzi Drinks Shop**](https://fizzi-drinks-shop.vercel.app/) – Playful e-commerce concept with animated 3D cans  
-
-More projects at [**morhaf.me**](https://www.morhaf.me/)
-
-### 🛠 Tech Stack
-
-- React, Next.js, TypeScript  
-- Tailwind CSS, Framer Motion, Shadcn/UI  
-- Three.js (for 3D), GSAP (for animation)  
-- Sanity / Prismic (for CMS)  
-- Figma (for design handoff & prototyping)
-
-### 📬 Connect
-
-I'm open to freelance work, collaborations, or just chatting code.  
-[LinkedIn](https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/) • [Portfolio](https://www.morhaf.me/)
+<p align="center">
+  <a href="https://morhaf.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-morhaf.me-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Morhaf%20Ghziel-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-> Building smooth user experiences, one interaction at a time.
+### 👨‍💻 About Me
+
+I'm a frontend developer from Riyadh 🇸🇦 focused on creating fast, modern, and visually engaging web applications. I enjoy working with creative UIs, animations, and clean design systems — blending performance with user experience.
+
+---
+
+### 🚀 Skills
+
+#### Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+#### Tools & Design  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=flat&logo=framer)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+---
+
+### 📊 My Stats
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morhaf&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morhaf&layout=compact&theme=radical" height="160" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=morhaf&theme=radical" height="160" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+- [🧠 PromptShare AI](https://aiprompt-sharing.netlify.app) — AI prompt discovery and sharing platform  
+- [🛍️ Freebee Shopify](https://freebee-shopify.vercel.app) — Custom storefront with Shopify integration  
+- [📱 iPhone Blush](https://iphone-blush-chi.vercel.app) — Animated product landing page  
+- [🥤 Fizzi Drinks Shop](https://fizzi-drinks-shop.vercel.app) — 3D can animations and GSAP transitions  
+
+Explore more on [**morhaf.me**](https://morhaf.me)
+
+---
+
+_“Building smooth user experiences, one interaction at a time.”_
