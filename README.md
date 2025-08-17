@@ -39,11 +39,20 @@ I'm a frontend developer with 3+ years of experience in HTML, CSS, and JavaScrip
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
+#### AI & Productivity Tools  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-303030?style=flat)
+![Claude](https://img.shields.io/badge/Claude-111111?style=flat)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat&logo=vercel&logoColor=white)
+
 ---
 
 ### 📊 My Stats
 
-<p align="center" style="display: flex; justify-content: center; gap: 16px; align-items: center;">
+<p align="center" style="display: flex; justify-content: center; gap: 16px; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=MorhafGhziel&show_icons=true&theme=radical" height="160" />
   <img src="https://streak-stats.demolab.com/?user=MorhafGhziel&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorhafGhziel&layout=compact&theme=radical" height="160" />
