@@ -16,7 +16,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a frontend developer with 3+ years of experience in HTML, CSS, and JavaScript — crafting responsive, user-focused interfaces using TypeScript, React, and Next.js.
+I’m a Full-Stack Developer focused on building scalable web applications and user-centered experiences using React and Next.js.
+
+I work on both frontend and backend, developing clean, responsive interfaces and integrating APIs and data to deliver complete, end-to-end features. I’ve built real-world projects including corporate websites, content platforms, and full-stack systems with authentication, dynamic content, and admin functionality.
 
 ---
 
@@ -60,4 +62,4 @@ I'm a frontend developer with 3+ years of experience in HTML, CSS, and JavaScrip
 
 ---
 
-_“Building smooth user experiences, one interaction at a time.”_
+_"Building scalable systems and smooth user experiences."_
