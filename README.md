@@ -1,65 +1,117 @@
-<h1 align="center">Hi 👋, I'm Morhaf</h1>
+<h1 align="center">Morhaf&nbsp;Ghziel</h1>
 
-<p align="center" style="display: flex; justify-content: center; gap: 8px;">
-  <a href="https://morhaf.me" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/MorhafGhz" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+<p align="center">
+  <b>Full-stack developer who ships.</b>
+</p>
+
+<p align="center">
+  I design and build web apps end to end — React, Next.js and TypeScript on the front,<br>
+  APIs and databases behind them. Most of my work goes live under someone else's logo.
+</p>
+
+<p align="center">
+  <a href="https://www.morhaf.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-morhaf.me-E0A87E?style=flat-square&labelColor=0D1117"></a>
+  <a href="https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-E0A87E?style=flat-square&labelColor=0D1117"></a>
+  <a href="https://x.com/MorhafGhz"><img alt="X" src="https://img.shields.io/badge/X-@MorhafGhz-E0A87E?style=flat-square&labelColor=0D1117"></a>
+  <a href="mailto:ghzielmorhaf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_hello-E0A87E?style=flat-square&labelColor=0D1117"></a>
+</p>
+
+<p align="center">
+  <img alt="Riyadh, GMT+3" src="https://img.shields.io/badge/Riyadh-GMT%2B3-0D1117?style=flat-square&labelColor=0D1117&color=6E7681">
+  <img alt="Remote worldwide" src="https://img.shields.io/badge/Working-Remote,_worldwide-0D1117?style=flat-square&labelColor=0D1117&color=6E7681">
+  <img alt="Open to work" src="https://img.shields.io/badge/Status-Open_to_new_projects-0D1117?style=flat-square&labelColor=0D1117&color=6E7681">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-I’m a Full-Stack Developer focused on building scalable web applications and user-centered experiences using React and Next.js.
+Full-stack developer, five years in, based in Riyadh and working remotely worldwide.
 
-I work on both frontend and backend, developing clean, responsive interfaces and integrating APIs and data to deliver complete, end-to-end features. I’ve built real-world projects including corporate websites, content platforms, and full-stack systems with authentication, dynamic content, and admin functionality.
+My centre of gravity is the front end — React and Next.js, where I care about how fast a thing
+feels and how easy it stays to change six months later. I work across the backend too: APIs,
+databases and the server-side logic that makes a feature complete rather than a demo.
 
----
-
-### 🚀 Skills
-
-#### Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-#### Tools & Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=flat&logo=framer)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-
-#### AI & Productivity Tools  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-303030?style=flat)
-![Claude](https://img.shields.io/badge/Claude-111111?style=flat)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat&logo=vercel&logoColor=white)
+Most of my paid work has been building and shipping entire sites for Saudi companies — design
+through deployment, usually as the only developer on the project. That means Arabic and RTL
+aren't a checkbox I tick at the end; they set the constraints from the first commit.
 
 ---
 
-### 📊 My Stats
+### In production
 
-<p align="center" style="display: flex; justify-content: center; gap: 16px; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MorhafGhziel&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=MorhafGhziel&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorhafGhziel&layout=compact&theme=radical" height="160" />
-</p>
+Real sites, real clients, live right now.
+
+| | What it is | Stack | |
+|---|---|---|---|
+| **Omdah Studio** | Bilingual RTL landing site and a bespoke CMS for a Riyadh visual-production studio — the studio edits every project, reel and line of copy itself | Next.js · Supabase · Postgres RLS · Signed uploads | [Live](https://www.omdah.sa) · [Code](https://github.com/MorhafGhziel/OmdahStudio-Landing) |
+| **Etar** | Arabic-first store for framed art prints, with ClickPay checkout and a 16-page admin | Next.js · Express · Prisma · PostgreSQL · JWT | [Live](https://eyetar.com) |
+| **Alpha Factory** | Production management system: roles, boards, invoices, PayPal and bot alerts | Next.js · Prisma · PostgreSQL · PayPal · Telegram API | [Live](https://www.alphafactory.net) · [Code](https://github.com/MorhafGhziel/Alpha-Factory) |
+| **Snaya** | Arabic-first corporate site for a Saudi influencer-management agency | Next.js · Three.js · Framer Motion · Lenis | [Live](https://www.snaya.sa) · [Code](https://github.com/MorhafGhziel/elsina3ya) |
+| **Alpha Factory Landing** | Arabic marketing site built around one path: visitor to signup | Next.js · Tailwind · RTL | [Live](https://www.xalphafactory.com) |
+| **Iedar** | Corporate site for a Saudi architectural design studio | Next.js · Framer Motion · RTL | [Live](https://www.iedar.sa) · [Code](https://github.com/MorhafGhziel/Idear_Landing) |
 
 ---
 
-_"Building scalable systems and smooth user experiences."_
+### Built for myself
+
+Where I go when I want to find out whether something is actually hard.
+
+| | What it is | Stack | |
+|---|---|---|---|
+| **Archy** | Describe an app in one sentence, get a live entity diagram — then Prisma, TypeScript and SQL generated from that same graph. The canvas is hand-built; there is no diagramming library in the project | Next.js · Server Actions · Prisma · Neon · Gemini | [Live](https://devflow-ai-mu.vercel.app/) · [Code](https://github.com/MorhafGhziel/devflow-ai) |
+| **Lumen** | Documents and an infinite canvas in one workspace, with an AI sidebar that reads the open page | Next.js · Supabase · HTML5 Canvas · Gemini | [Live](https://lumen-woad-nine.vercel.app/) · [Code](https://github.com/MorhafGhziel/lumen) |
+| **AI CV Generator** | Upload a PDF, paste a job post, get an ATS-ready CV tailored to it | Next.js · MongoDB · Prisma · NextAuth · Gemini · Groq | [Live](https://ai-cv-generator-opal.vercel.app/) · [Code](https://github.com/MorhafGhziel/ai-cv-generator) |
+
+---
+
+### Notes from the work
+
+A few things these builds actually taught me — the kind that don't fit in a badge.
+
+- **Arabic sets the constraints, not the layout grid.** A headline reveal has to mask *words*,
+  not characters — splitting a character breaks the joining forms and renders nonsense. Arabic
+  is never letterspaced and has no uppercase, so every Latin-only type primitive needs an Arabic
+  twin rather than a `lang` swap.
+- **Font fallback fails silently.** A font with no Arabic coverage doesn't error; the browser
+  just substitutes. I found index numerals rendering in Times New Roman by asking Chrome which
+  face actually drew each glyph — CSS only reports what you asked for, not what you got.
+- **Big files never touch the backend.** Video reels run to 45MB and serverless request bodies
+  cap far below that, so the server mints a signed URL and the browser writes straight to object
+  storage.
+- **Two-tier data access.** Row-level security makes reads safe with the browser's key; every
+  mutation goes through a server route holding the service role, so the client never carries a
+  credential that can change anything.
+
+---
+
+### What I work with
+
+**Front end**
+`React` `Next.js (App Router, Server Actions)` `TypeScript` `Tailwind CSS` `Framer Motion` `CSS animation & View Transitions` `Radix UI` `RTL / Arabic layout`
+
+**Backend & data**
+`Node.js` `Express` `REST APIs` `PostgreSQL / Neon` `Supabase` `Prisma` `MongoDB` `Auth (Clerk, NextAuth, JWT)` `Payments (ClickPay, PayPal)` `S3 storage & uploads` `Zod`
+
+**Design & tooling**
+`Figma` `Git & GitHub` `Vercel` `Strict TypeScript & ESLint` `Three.js` `GSAP` `Canvas & SVG` `Gemini / Groq`
+
+---
+
+<div align="center">
+
+<img height="150" alt="Morhaf's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MorhafGhziel&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=E0A87E&icon_color=E0A87E&text_color=6E7681&hide_title=true">
+<img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorhafGhziel&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=E0A87E&text_color=6E7681">
+
+</div>
+
+---
+
+### Get in touch
+
+Email is the fastest way to reach me — I read everything and reply within a day.
+Tell me what you're building, roughly when you need it, and what success looks like.
+
+**[ghzielmorhaf@gmail.com](mailto:ghzielmorhaf@gmail.com)** · **[morhaf.me](https://www.morhaf.me)**
+
+<sub>Arabic (native) · English (professional) · Riyadh, GMT+3 · Open to new projects and full-time roles</sub>
