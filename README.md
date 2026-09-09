@@ -1,4 +1,4 @@
-<h1 align="center">Morhaf&nbsp;Ghziel</h1>
+<h1 align="center">Murhaf&nbsp;Ghziel</h1>
 
 <p align="center">
   <b>Full-stack developer who ships.</b>
