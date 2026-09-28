@@ -44,12 +44,12 @@ Real sites, real clients, live right now.
 
 | | What it is | Stack | |
 |---|---|---|---|
-| **Omdah Studio** | Bilingual RTL landing site and a bespoke CMS for a Riyadh visual-production studio — the studio edits every project, reel and line of copy itself | Next.js · Supabase · Postgres RLS · Signed uploads | [Live](https://www.omdah.sa) · [Code](https://github.com/MorhafGhziel/OmdahStudio-Landing) |
+| **Omdah Studio** | Bilingual RTL landing site and a bespoke CMS for a Riyadh visual-production studio — the studio edits every project, reel and line of copy itself | Next.js · Supabase · Postgres RLS · Signed uploads | [Live](https://www.omdah.sa) |
 | **Etar** | Arabic-first store for framed art prints, with ClickPay checkout and a 16-page admin | Next.js · Express · Prisma · PostgreSQL · JWT | [Live](https://eyetar.com) |
-| **Alpha Factory** | Production management system: roles, boards, invoices, PayPal and bot alerts | Next.js · Prisma · PostgreSQL · PayPal · Telegram API | [Live](https://www.alphafactory.net) · [Code](https://github.com/MorhafGhziel/Alpha-Factory) |
-| **Snaya** | Arabic-first corporate site for a Saudi influencer-management agency | Next.js · Three.js · Framer Motion · Lenis | [Live](https://www.snaya.sa) · [Code](https://github.com/MorhafGhziel/elsina3ya) |
+| **Alpha Factory** | Production management system: roles, boards, invoices, PayPal and bot alerts | Next.js · Prisma · PostgreSQL · PayPal · Telegram API | [Live](https://www.alphafactory.net) |
+| **Snaya** | Arabic-first corporate site for a Saudi influencer-management agency | Next.js · Three.js · Framer Motion · Lenis | [Live](https://www.snaya.sa) |
 | **Alpha Factory Landing** | Arabic marketing site built around one path: visitor to signup | Next.js · Tailwind · RTL | [Live](https://www.xalphafactory.com) |
-| **Iedar** | Corporate site for a Saudi architectural design studio | Next.js · Framer Motion · RTL | [Live](https://www.iedar.sa) · [Code](https://github.com/MorhafGhziel/Idear_Landing) |
+| **Iedar** | Corporate site for a Saudi architectural design studio | Next.js · Framer Motion · RTL | [Live](https://www.iedar.sa) |
 
 ---
 
