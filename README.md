@@ -42,14 +42,14 @@ aren't a checkbox I tick at the end; they set the constraints from the first com
 
 Real sites, real clients, live right now.
 
-| | What it is | Stack | |
-|---|---|---|---|
-| **Omdah Studio** | Bilingual RTL landing site and a bespoke CMS for a Riyadh visual-production studio — the studio edits every project, reel and line of copy itself | Next.js · Supabase · Postgres RLS · Signed uploads | [Live](https://www.omdah.sa) |
-| **Etar** | Arabic-first store for framed art prints, with ClickPay checkout and a 16-page admin | Next.js · Express · Prisma · PostgreSQL · JWT | [Live](https://eyetar.com) |
-| **Alpha Factory** | Production management system: roles, boards, invoices, PayPal and bot alerts | Next.js · Prisma · PostgreSQL · PayPal · Telegram API | [Live](https://www.alphafactory.net) |
-| **Snaya** | Arabic-first corporate site for a Saudi influencer-management agency | Next.js · Three.js · Framer Motion · Lenis | [Live](https://www.snaya.sa) |
-| **Alpha Factory Landing** | Arabic marketing site built around one path: visitor to signup | Next.js · Tailwind · RTL | [Live](https://www.xalphafactory.com) |
-| **Iedar** | Corporate site for a Saudi architectural design studio | Next.js · Framer Motion · RTL | [Live](https://www.iedar.sa) |
+| | What it is | Stack | Live | Code |
+|---|---|---|---|---|
+| **Omdah Studio** | Bilingual RTL landing site and a bespoke CMS for a Riyadh visual-production studio — the studio edits every project, reel and line of copy itself | Next.js · Supabase · Postgres RLS · Signed uploads | [omdah.sa](https://www.omdah.sa) | Private |
+| **Etar** | Arabic-first store for framed art prints, with ClickPay checkout and a 16-page admin | Next.js · Express · Prisma · PostgreSQL · JWT | [eyetar.com](https://eyetar.com) | Private |
+| **Alpha Factory** | Production management system: roles, boards, invoices, PayPal and bot alerts | Next.js · Prisma · PostgreSQL · PayPal · Telegram API | [alphafactory.net](https://www.alphafactory.net) | Private |
+| **Snaya** | Arabic-first corporate site for a Saudi influencer-management agency | Next.js · Three.js · Framer Motion · Lenis | [snaya.sa](https://www.snaya.sa) | Private |
+| **Alpha Factory Landing** | Arabic marketing site built around one path: visitor to signup | Next.js · Tailwind · RTL | [xalphafactory.com](https://www.xalphafactory.com) | Private |
+| **Iedar** | Corporate site for a Saudi architectural design studio | Next.js · Framer Motion · RTL | [iedar.sa](https://www.iedar.sa) | Private |
 
 ---
 
@@ -57,11 +57,11 @@ Real sites, real clients, live right now.
 
 Where I go when I want to find out whether something is actually hard.
 
-| | What it is | Stack | |
-|---|---|---|---|
-| **Archy** | Describe an app in one sentence, get a live entity diagram — then Prisma, TypeScript and SQL generated from that same graph. The canvas is hand-built; there is no diagramming library in the project | Next.js · Server Actions · Prisma · Neon · Gemini | [Live](https://devflow-ai-mu.vercel.app/) · [Code](https://github.com/MorhafGhziel/devflow-ai) |
-| **Lumen** | Documents and an infinite canvas in one workspace, with an AI sidebar that reads the open page | Next.js · Supabase · HTML5 Canvas · Gemini | [Live](https://lumen-woad-nine.vercel.app/) · [Code](https://github.com/MorhafGhziel/lumen) |
-| **AI CV Generator** | Upload a PDF, paste a job post, get an ATS-ready CV tailored to it | Next.js · MongoDB · Prisma · NextAuth · Gemini · Groq | [Live](https://ai-cv-generator-opal.vercel.app/) · [Code](https://github.com/MorhafGhziel/ai-cv-generator) |
+| | What it is | Stack | Live | Code |
+|---|---|---|---|---|
+| **Archy** | Describe an app in one sentence, get a live entity diagram — then Prisma, TypeScript and SQL generated from that same graph. The canvas is hand-built; there is no diagramming library in the project | Next.js · Server Actions · Prisma · Neon · Gemini | [devflow-ai-mu.vercel.app](https://devflow-ai-mu.vercel.app/) | [repo](https://github.com/MorhafGhziel/devflow-ai) |
+| **Lumen** | Documents and an infinite canvas in one workspace, with an AI sidebar that reads the open page | Next.js · Supabase · HTML5 Canvas · Gemini | [lumen-woad-nine.vercel.app](https://lumen-woad-nine.vercel.app/) | [repo](https://github.com/MorhafGhziel/lumen) |
+| **AI CV Generator** | Upload a PDF, paste a job post, get an ATS-ready CV tailored to it | Next.js · MongoDB · Prisma · NextAuth · Gemini · Groq | [ai-cv-generator-opal.vercel.app](https://ai-cv-generator-opal.vercel.app/) | [repo](https://github.com/MorhafGhziel/ai-cv-generator) |
 
 ---
 
