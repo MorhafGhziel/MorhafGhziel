@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.morhaf.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-morhaf.me-E0A87E?style=flat-square&labelColor=0D1117"></a>
+  <a href="https://murhaf.site"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-murhaf.site-E0A87E?style=flat-square&labelColor=0D1117"></a>
   <a href="https://www.linkedin.com/in/morhaf-ghziel-a720a72b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-E0A87E?style=flat-square&labelColor=0D1117"></a>
   <a href="https://x.com/MorhafGhz"><img alt="X" src="https://img.shields.io/badge/X-@MorhafGhz-E0A87E?style=flat-square&labelColor=0D1117"></a>
   <a href="mailto:ghzielmorhaf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_hello-E0A87E?style=flat-square&labelColor=0D1117"></a>
@@ -112,6 +112,6 @@ A few things these builds actually taught me — the kind that don't fit in a ba
 Email is the fastest way to reach me — I read everything and reply within a day.
 Tell me what you're building, roughly when you need it, and what success looks like.
 
-**[ghzielmorhaf@gmail.com](mailto:ghzielmorhaf@gmail.com)** · **[morhaf.me](https://www.morhaf.me)**
+**[ghzielmorhaf@gmail.com](mailto:ghzielmorhaf@gmail.com)** · **[murhaf.site](https://murhaf.site)**
 
 <sub>Arabic (native) · English (professional) · Riyadh, GMT+3 · Open to new projects and full-time roles</sub>
